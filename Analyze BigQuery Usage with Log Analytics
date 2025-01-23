@@ -1,0 +1,3 @@
+curl -LO raw.githubusercontent.com/Techcps/Google-Cloud-Skills-Boost/master/Analyze%20BigQuery%20Usage%20with%20Log%20Analytics/techcps1250.sh
+sudo chmod +x techcps1250.sh
+./techcps1250.sh
